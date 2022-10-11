@@ -1,4 +1,4 @@
-.button {
+.button-thing {
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -10,13 +10,14 @@ body {
   background-color: darkblue;
 }
 
-.button {
+button {
   background-color: turquoise; 
   border: black;
-  color: white;
+  color: turquoise;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
 }
+
